@@ -1,3 +1,3 @@
 # LISTAS DE EXERCÍCIOS
 
-Esse repositório será utilizado para guardar listas de exercícios realizados durante O Sonho
+Essa pasta será utilizada para guardar listas de exercícios de python e C++ realizadas durante O Sonho
