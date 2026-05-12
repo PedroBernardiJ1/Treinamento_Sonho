@@ -1,3 +1,3 @@
-#EXERCÍCIOS DE TEORIA DE ROBÓTICA
+# EXERCÍCIOS DE TEORIA DA ROBÓTICA
 
-Aqui estão todos os enunciados e exerćicios de Teoria de Robótica que foram resolvidos durante o treinamento.
+Aqui estão todos os enunciados e exercícios de Teoria da Robótica que foram resolvidos durante o treinamento do Sonho.

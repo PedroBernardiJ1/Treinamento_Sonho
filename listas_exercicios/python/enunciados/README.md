@@ -1,3 +1,3 @@
-#ENUNCIADOS DE PYTHON
+# ENUNCIADOS DE PYTHON
 
-Aqui estão todos os enunciados dos exercícios de Python que foram resolvidos durante o treinamento.
+Aqui estão todos os enunciados dos exercícios de Python que foram resolvidos durante o treinamento do Sonho.

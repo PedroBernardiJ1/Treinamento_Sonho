@@ -1,3 +1,3 @@
 # LISTAS DE EXERCÍCIOS
 
-Essa pasta será utilizada para guardar listas de exercícios (e seus enunciados) realizadas durante O Sonho
+Essa pasta será utilizada para guardar as respostas e os enunciados dos exercícios resolvidos durante o treinamento do Sonho.
