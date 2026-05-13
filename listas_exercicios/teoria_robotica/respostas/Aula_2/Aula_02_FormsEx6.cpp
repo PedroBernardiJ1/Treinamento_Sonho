@@ -28,6 +28,14 @@ int main() {
         cout << "Digite o comando de movimento" << endl;
         cout << "Digite a velocidade linear (em m/s): ";
         cin >> v;
+
+        if (cin.fail()) {
+            
+            cout << "Erro de leitura detectado! Encerrando segurança...\n";
+            break;
+
+        }
+    
         cout << "Digite a velocidade angular (em rad/s): ";
         cin >> w;
         cout << "Digite o temṕo (dt) de duração do movimento (em segundos): ";
@@ -37,7 +45,9 @@ int main() {
 
         if (dt < 0) {
             
-            cout << "Tempo de movimento (dt) negativo detectado. Encerrando leituras...";
+            cout << "Tempo de movimento (dt) negativo detectado. Encerrando leituras..." << endl;
+            cout << endl;
+
             break;
 
         }
