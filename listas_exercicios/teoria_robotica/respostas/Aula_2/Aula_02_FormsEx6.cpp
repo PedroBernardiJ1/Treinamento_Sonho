@@ -33,7 +33,7 @@ int main() {
             
             cout << "Erro de leitura detectado! Encerramento de segurança...";
             break;
-
+        
         }
     
         cout << "Digite a velocidade angular (em rad/s): ";
