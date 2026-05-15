@@ -31,7 +31,7 @@ int main() {
 
         if (cin.fail()) {
             
-            cout << "Erro de leitura detectado! Encerrando segurança...\n";
+            cout << "Erro de leitura detectado! Encerramento de segurança...";
             break;
 
         }
